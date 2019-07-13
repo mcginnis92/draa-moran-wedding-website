@@ -14,7 +14,7 @@ const App = () =>
   <div className="App">
   <GlobalStyle />
     <Wrapper>
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <Header>Draa Moran Wedding Celebration</Header>
         <Navigation />
         <Switch>

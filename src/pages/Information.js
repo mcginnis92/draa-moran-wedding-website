@@ -14,11 +14,11 @@ const Information = () =>
             <p>Dress: We recommend stylish casual clothing. As it is a boat, be mindful of your footwear. However, the cruise line has a few more rules: Absolutely no sportswear, gym shoes, work boots, jerseys, baggy clothes or ball caps are permitted on the cruise.</p>
             <p>Please bring your ID to present boatside for entrance. Look for the butler drinks at boarding. Soon after we will have a buffet lunch and the bar is included in our package. As part of our celebration, we are providing a memento photo of your cruise. Please look for it before you depart.</p>
             <hr />
-            <p>
+            <div>
                 <h3>Arriving early? </h3> 
                 Join us for some afternoon fun at Wrigley Field, Friday, September 13, while the Chicago Cubs take on the Pittsburgh Pirates.&nbsp;
                 <Link to="/chicago">Details</Link>
-            </p>
+            </div>
             <Credit>Image courtesy of Mystic Blue Cruises</Credit>
         </Description> 
     </Container>

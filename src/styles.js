@@ -17,10 +17,8 @@ export const GlobalStyle = createGlobalStyle`
     font-size: 52px;
     font-family: 'Allura', cursive;
 
-    {
-      @media (max-width: 500px){
-        text-align: center;
-      }
+    @media (max-width: 500px){
+      text-align: center;
     }
   }
 
