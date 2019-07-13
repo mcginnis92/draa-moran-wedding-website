@@ -42,7 +42,7 @@ const Nav = () =>
             <Link to="/">Home</Link>
         </Page>
         <Page>
-            <Link to="/events">Information</Link>
+            <Link to="/information">Information</Link>
         </Page>
         <Page>
             <Link to="/accommodations">Accommodations</Link>

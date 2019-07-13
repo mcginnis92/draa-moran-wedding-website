@@ -1,5 +1,5 @@
 import React from 'react';
-import {BrowserRouter as Router, Route, Switch} from 'react-router-dom';
+import {BrowserRouter, Route, Switch} from 'react-router-dom';
 
 import Navigation from './nav';
 import Home from './pages/Home';
@@ -14,18 +14,18 @@ const App = () =>
   <div className="App">
   <GlobalStyle />
     <Wrapper>
-      <Router>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Header>Draa Moran Wedding Celebration</Header>
         <Navigation />
         <Switch>
           <Route exact path="/" component={Home} />
-          <Route path="/events" component={Information} />
+          <Route path="/information" component={Information} />
           <Route path="/accommodations" component={Accommodations} />
           <Route path="/photos" component={Photos} />
           <Route path="/chicago" component={Chicago} />
           <Route path="/rsvp" component={RSVP} />
         </Switch>
-      </Router>
+      </BrowserRouter>
     </Wrapper>
   </div>
 
