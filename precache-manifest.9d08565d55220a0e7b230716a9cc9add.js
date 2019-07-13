@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ec4c22c5e9c965f7b443e37232313bf",
+    "revision": "af36fdca7aa19aea638d0ee5ac00f9ac",
     "url": "/draa-moran-wedding-website/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/draa-moran-wedding-website/static/js/2.02557b85.chunk.js"
   },
   {
-    "revision": "b57643195a40e5f3743e",
-    "url": "/draa-moran-wedding-website/static/js/main.726707a9.chunk.js"
+    "revision": "1dce954044160d521bf7",
+    "url": "/draa-moran-wedding-website/static/js/main.2c6e3f5b.chunk.js"
   },
   {
     "revision": "43b3770e0878c2c04254",
