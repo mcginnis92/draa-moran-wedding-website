@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/draa-moran-wedding-website/precache-manifest.d758b463ae3e65469f41b348d2caa01b.js"
+  "/draa-moran-wedding-website/precache-manifest.6f052e65eb0a98268e3e834cdf0ffb56.js"
 );
 
 self.addEventListener('message', (event) => {
