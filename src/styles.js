@@ -50,7 +50,7 @@ export const GlobalStyle = createGlobalStyle`
 
   strong {
     color: #23426E;
-    font-weight: 500;
+    font-weight: 700;
   }
 
   hr {
@@ -161,4 +161,8 @@ export const Gallery = styled.div`
   div {
     margin-bottom: 10px;
   }
+`;
+
+export const StyledP = styled.p`
+  margin-top: 20px;
 `;

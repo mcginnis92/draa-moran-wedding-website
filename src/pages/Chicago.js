@@ -1,6 +1,6 @@
 import React from 'react';
 
-import {Container, Photo, Description, Date} from '../styles';
+import {Container, Photo, Description, Date, StyledP} from '../styles';
 
 const Chicago = () => 
     <Container>
@@ -10,8 +10,13 @@ const Chicago = () =>
             <Description>
                 <h3>Chicago Cubs vs. Pittsburgh Pirates</h3>
                 <Date>Friday, September 13, 2019 at 3:05 pm</Date>
-                <p>Early arrivals: If you are in Chicago on Friday, September 13, and would like to join us at the Chicago Cubs game, purchase Budweiser Bleacher seat tickets from the <a href="https://mpv.tickets.com/?orgId=5&agency=MLB_MPV&pid=8652627" target="_blank" rel="noopener noreferrer">Cubs</a> or on <a href="https://www.stubhub.com/chicago-cubs-tickets-chicago-cubs-chicago-wrigley-field-9-13-2019/event/103822498" target="_blank" rel="noopener noreferrer">StubHub</a>. Note that these tickets are numbered as 500 section tickets until you click on them. You will see "Budweiser Bleachers General Admission" as the section.</p>
-                <p><strong>Important:</strong> There are not assigned seats in the bleachers, so we will all plan to enter the stadium through the bleacher entrance (Waveland & Sheffield) at 2:00 pm to find a space to sit together. Please indicate on our <a href="https://bobandcheryl.app.rsvpify.com" target="_blank" rel="noopener noreferrer">RSVP site</a> if you are planning to attend the Cubs game so we have an approximate idea of how many will be joining us!</p>
+                <p>Early arrivals: If you are in Chicago on Friday, September 13, and would like to join us at the Chicago Cubs game, purchase Budweiser Bleacher seat tickets from the <a href="https://mpv.tickets.com/?orgId=5&agency=MLB_MPV&pid=8652627" target="_blank" rel="noopener noreferrer">Cubs</a> or on <a href="https://www.stubhub.com/chicago-cubs-tickets-chicago-cubs-chicago-wrigley-field-9-13-2019/event/103822498" target="_blank" rel="noopener noreferrer">StubHub</a>. Check out this <a href="https://youtu.be/mMlOAjC5thM" target="_blank" rel="noopener noreferrer">awesome video</a> about the famous bleachers!</p>
+                
+                <p>Note that these tickets are numbered as 500 section tickets until you click on them. See the image below - anything in the yellow section is considered a bleacher seat. When you go to purchase, your seats should read "Budweiser Bleachers General Admission." <strong>There are no assigned seats!</strong></p>
+            
+            <Photo><img src={require('../images/bleacher-section.png')} alt="Wrigley Field Bleachers" /></Photo>
+            
+                <StyledP><strong>IMPORTANT:</strong> We will all plan to enter the stadium through the bleacher entrance (Waveland & Sheffield) at 2:00 pm to find a space to sit together. Please indicate on our <a href="https://bobandcheryl.app.rsvpify.com" target="_blank" rel="noopener noreferrer">RSVP site</a> if you are planning to attend the Cubs game so we have an approximate idea of how many will be joining us!</StyledP>
             </Description>
         </>
 
