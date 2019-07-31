@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a8d9872ea6c0d16b5da701ec1af616f6",
+    "revision": "c28f308fc9a8a7afbbaab646d8feee83",
     "url": "/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.bd876fc4.chunk.js"
   },
   {
-    "revision": "ca9d32fab171b5c8fc59",
-    "url": "/static/js/main.fe6e4a5d.chunk.js"
+    "revision": "a32909ec5a0d1ffd2fc5",
+    "url": "/static/js/main.09b77919.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "832f4cc645c2858a34371138c351be5f",
     "url": "/static/media/architecture-tour.832f4cc6.jpg"
+  },
+  {
+    "revision": "9029b9ab3594f54def47fc20320413d3",
+    "url": "/static/media/bleacher-section.9029b9ab.png"
   },
   {
     "revision": "54ee087852c8542f29c745890e1f1dd2",
