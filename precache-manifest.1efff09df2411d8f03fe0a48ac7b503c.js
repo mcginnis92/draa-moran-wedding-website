@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c28f308fc9a8a7afbbaab646d8feee83",
+    "revision": "544c3ce58743354d0e3680412344cdb2",
     "url": "/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.bd876fc4.chunk.js"
   },
   {
-    "revision": "a32909ec5a0d1ffd2fc5",
-    "url": "/static/js/main.09b77919.chunk.js"
+    "revision": "35b9b95a404f6378bfeb",
+    "url": "/static/js/main.05139fb1.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -86,6 +86,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d3fa9adebbea4e78989bc35671427592",
     "url": "/static/media/heather-maguire-unsplash.d3fa9ade.jpg"
+  },
+  {
+    "revision": "a4e47252bfebfb01f7260d53dce0f7df",
+    "url": "/static/media/navy-pier-map.a4e47252.pdf"
+  },
+  {
+    "revision": "e09ea1b2ff75f4ed1dbb45a32092bb93",
+    "url": "/static/media/navy-pier-map.e09ea1b2.png"
+  },
+  {
+    "revision": "de0e46403a7305581ccac63b57c1f559",
+    "url": "/static/media/navy-pier-parking.de0e4640.pdf"
   },
   {
     "revision": "4893dc18f3f3f473bc9612790f5588d4",
