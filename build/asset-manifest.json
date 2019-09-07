@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.09b77919.chunk.js",
-    "main.js.map": "/static/js/main.09b77919.chunk.js.map",
+    "main.js": "/static/js/main.05139fb1.chunk.js",
+    "main.js.map": "/static/js/main.05139fb1.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
     "static/js/2.bd876fc4.chunk.js": "/static/js/2.bd876fc4.chunk.js",
     "static/js/2.bd876fc4.chunk.js.map": "/static/js/2.bd876fc4.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.fe653351994bc7691b3f6cc393b0c056.js": "/precache-manifest.fe653351994bc7691b3f6cc393b0c056.js",
+    "precache-manifest.1efff09df2411d8f03fe0a48ac7b503c.js": "/precache-manifest.1efff09df2411d8f03fe0a48ac7b503c.js",
     "service-worker.js": "/service-worker.js",
     "static/media/Mystic-Blue-Cruise-Ship.jpg": "/static/media/Mystic-Blue-Cruise-Ship.052f9fc9.jpg",
     "static/media/architecture-tour.jpg": "/static/media/architecture-tour.832f4cc6.jpg",
@@ -27,6 +27,9 @@
     "static/media/family8.jpg": "/static/media/family8.766da165.jpg",
     "static/media/family9.JPG": "/static/media/family9.0d09b173.JPG",
     "static/media/heather-maguire-unsplash.jpg": "/static/media/heather-maguire-unsplash.d3fa9ade.jpg",
+    "static/media/navy-pier-map.pdf": "/static/media/navy-pier-map.a4e47252.pdf",
+    "static/media/navy-pier-map.png": "/static/media/navy-pier-map.e09ea1b2.png",
+    "static/media/navy-pier-parking.pdf": "/static/media/navy-pier-parking.de0e4640.pdf",
     "static/media/navy-pier.png": "/static/media/navy-pier.4893dc18.png",
     "static/media/ozzie-stern-unsplash.jpg": "/static/media/ozzie-stern-unsplash.93bd04a1.jpg",
     "static/media/tim-trad-unsplash.jpg": "/static/media/tim-trad-unsplash.2c4d1583.jpg"

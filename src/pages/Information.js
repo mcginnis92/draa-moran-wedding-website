@@ -14,6 +14,7 @@ const Information = () =>
             <p><a href={require('../docs/navy-pier-parking.pdf')} target="_blank" rel="noopener noreferrer">Click for directions and parking information.</a></p>
             <p>Dress: We recommend stylish casual clothing. As it is a boat, be mindful of your footwear. However, the cruise line has a few more rules: Absolutely no sportswear, gym shoes, work boots, jerseys, baggy clothes or ball caps are permitted on the cruise.</p>
             <p>Please bring your ID to present boatside for entrance. Look for the butler drinks at boarding. Soon after we will have a buffet lunch and the bar is included in our package. As part of our celebration, we are providing a memento photo of your cruise. Please look for it before you depart.</p>
+            <p>Gifts: We don’t need anything, just please come see us!</p>
             <Photo width="600px">
                 <a href={require('../docs/navy-pier-map.pdf')} target="_blank" rel="noopener noreferrer">
                     <img src={require('../images/navy-pier-map.png')} alt="Navy Pier Map" />
